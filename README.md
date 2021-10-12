@@ -16,10 +16,10 @@ Used features and Libraries:
 
 ## Screenshots
 
-[<img src="/ScreenShots/home.jpg" height=300 
-    hspace="10" vspace="10">](/ScreenShots/home.jpg)
-[<img src="/ScreenShots/No-connection.jpg" height=300 
-    hspace="10" vspace="10">](/ScreenShots/No-connection.jpg)
+[<img src="/ScreenShot/home.jpg" height=300 
+    hspace="10" vspace="10">](/ScreenShot/home.jpg)
+[<img src="/ScreenShot/No-connection.jpg" height=300 
+    hspace="10" vspace="10">](/ScreenShot/No-connection.jpg)
 
 
 ## Permissions
